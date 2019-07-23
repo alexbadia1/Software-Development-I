@@ -1,0 +1,8 @@
+9
+Spades
+9
+Diamonds
+9
+Heart
+9
+Clubs
