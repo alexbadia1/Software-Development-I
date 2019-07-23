@@ -1,0 +1,16 @@
+5
+Apples
+3
+4.00
+Grapes
+2
+.50
+Cookies
+5
+0
+Cakes
+2
+9.00
+Oranges
+10
+50
